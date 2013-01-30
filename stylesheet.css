@@ -1,0 +1,89 @@
+html {background: silver;
+  height: 1080px;
+  width: 1920px;}
+
+.center {
+    width: 755px;
+    height: 618px;
+    
+    background-color: #053088;
+    z-index: 10;
+    display: block;
+  
+  }
+  
+  .headline {
+    width: 729px;
+    height: 68px;
+    position: relative;
+    background: #dfdfdf;
+    margin-top: -20px;
+    
+  }
+  .headline_text {
+    /*px numbers pending*/
+    height: px;
+    width: px;
+    position: relative;
+    font-color: #0f3c99;
+  
+  }  
+  .side_thing_left {
+    
+    height: 711px;
+    width: 111px;
+    background: #960404;
+    float: left;
+    }
+    
+  .side_thing_right {
+     height: 711px;
+     width: 111px;
+     background: #960404;
+     float: right;
+  }
+  
+  .bracket_arm_top {
+    width: 184px;
+    height: 90px;
+    background: #960404;
+    float: inherit;
+    margin-bottom: 105px;
+    }
+    
+     .bracket_arm_bottom {
+    width: 184px;
+    height: 90px;
+    background: #960404;
+    float: inherit;
+    margin-top: 105px;
+    }
+    
+  .facebook_icon {
+    height: 119px;
+    width: 119px;
+  }
+  
+  .photo {
+    height: 170px;
+    width: 143px;}
+    
+    .text_constraint {
+      height: 524px;
+      width: 753px;
+      }
+      
+  .top_bar {
+    height: 138px;
+    width: 1920px;
+    }
+  
+  .top_bar_text_image_left {
+    height: 70px;
+    width: 522px;
+  }
+
+  .top_bar_text_image_right {
+    height: 138px;
+    width: 300px;
+  }
